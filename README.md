@@ -7,12 +7,9 @@
   <li>
     Lucas Manuel Vazquez Leg: 209.224-4
   </li>
-  <li>
-  </li>
     <li>
     Bruno Sapoznik leg 204.051-7
-  </li>
-  <li>
+
   </li>
   <li>
     Federico Hygonenq leg:203.730-0
